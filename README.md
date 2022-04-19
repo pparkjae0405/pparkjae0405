@@ -1,4 +1,4 @@
-### 안동대학교 컴퓨터공학과 20171117 박재민입니다.
+### 안동대학교 컴퓨터공학과 박재민입니다.
 
 <!--
 **pparkjae0405/pparkjae0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
