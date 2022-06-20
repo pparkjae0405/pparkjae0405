@@ -1,5 +1,5 @@
 <!-- 프로필 -->
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=JAEMIN+PARK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=JAEMIN+PARK&fontSize=90&fontColor=FFFFFF)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -21,7 +21,6 @@
 <h3 align="center">👩🏻‍💻Solved.ac Profile</h3>
 <div align="center" style="text-align:center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pparkjae0405)](https://solved.ac/pparkjae0405/)
-
 </div>
 
 <br>
