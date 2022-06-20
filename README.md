@@ -1,5 +1,5 @@
 <!-- 프로필 -->
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=JAEMIN+PARK&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=JAEMIN+PARK&fontSize=90&fontColor=C4D1C5)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
