@@ -8,9 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=IntelliJ+IDEA&logoColor=white"><!-- 자바 -->
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <!-- 파이썬 -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp <!-- C++ -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp <!-- C -->
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp <!-- JS -->
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <!-- 스프링부트 -->
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp<!-- Node.js -->
   <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp<!-- p5.js -->
