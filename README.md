@@ -20,7 +20,7 @@
 
 <br>
 
-<!-- 깃헙 활동 -->
+<!-- 깃헙 활동 
 <h3 align="center">💬Github Status</h3>
 
 <div align="center" style="text-align:center">
@@ -30,7 +30,7 @@
 </div>
 
 <br>
-
+-->
 <!-- 수상 경력 -->
 <h3 align="center">🏆수상 경력</h3>
 <div align="center" style="text-align:center">
